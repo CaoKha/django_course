@@ -1,0 +1,4 @@
+CREATE TABLE join_passenger_flight AS
+SELECT first_name, origin, destination
+FROM flights JOIN passengers
+ON passengers.flight_id = flights.id;

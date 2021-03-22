@@ -1,0 +1,12 @@
+INSERT INTO passengers (first_name,last_name, flight_id) 
+VALUES ("Harry","Potter",1);
+INSERT INTO passengers (first_name,last_name, flight_id) 
+VALUES ("Ron","Weasley",1);
+INSERT INTO passengers (first_name,last_name, flight_id) 
+VALUES ("Hermione","Granger",2);
+INSERT INTO passengers (first_name,last_name, flight_id) 
+VALUES ("Draco","Malfoy",4);
+INSERT INTO passengers (first_name,last_name, flight_id) 
+VALUES ("Luna","Lovegood",6);
+INSERT INTO passengers (first_name,last_name, flight_id) 
+VALUES ("Ginny","Weasley",6);
