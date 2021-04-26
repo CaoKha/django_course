@@ -18,5 +18,6 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('singlepage/',include('singlepage.urls'))
+    path('singlepage/',include('singlepage.urls')),
+    path('infiniteScroll/',include('infiniteScroll.urls'))
 ]
